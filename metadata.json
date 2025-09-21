@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Pronunciation Coach AI",
+  "description": "An interactive AI system that gives real-time pronunciation feedback by comparing non-native speakers' audio to phonetic models of native English speakers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
